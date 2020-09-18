@@ -1,0 +1,30 @@
+#navbar {
+    background-color: #E5F4F3;
+}
+
+#nav-menu, ul {
+    padding-top: 50px;
+    width: 50%;
+    margin: 0;
+    float: right;
+    overflow: hidden;
+}
+
+#nav-menu, li {
+    float: left;
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    overflow: hidden;
+}
+
+#nav-menu, li, a {
+    text-align: center;
+    padding: 16px;
+}
+
+#header-logo {
+    margin: auto;
+    width: 450px;
+}
+
